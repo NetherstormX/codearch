@@ -14,7 +14,7 @@
     <button onclick="myFunction()">Switch</button>
     <br>
     <script>  
-        document.write("Welcome to Javatpoint");  
+        document.write("Test Script");  
     </script>  
     <label class="switch">
         <input type="checkbox" onclick="myFunction()">
